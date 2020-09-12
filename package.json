@@ -9,7 +9,7 @@
     "@types/qs": "^6.5.1",
     "@types/uuid": "^3.4.4",
     "moment": "^2.23.0",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "qs": "^6.6.0",
     "ts-node": "^7.0.1",
     "typescript": "^3.2.2",
